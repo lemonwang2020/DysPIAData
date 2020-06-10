@@ -1,0 +1,16 @@
+Package: DysPIAData
+Type: Package
+Title: Background and Pathway data used in DysPIA
+Version: 0.1.0
+Authors@R: c(person("Limei", "Wang", role = c("aut", "cre"),
+                     email = "lemon619@gmail.com"),
+              person("Jin", "Li", role = c("aut", "ctb"),
+                     email = "lijin0202@gmail.com"))
+Maintainer: Limei Wang <lemon619@gmail.com>
+Description: There are Background and Pathway data used in package DysPIA.
+License: GPL (>= 2)
+Depends: R (>= 3.5)
+Encoding: UTF-8
+LazyData: false
+Date: 2020-04-01
+RoxygenNote: 7.1.0
